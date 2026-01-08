@@ -1,3 +1,3 @@
-# Blog tutorial follow-along
+# Blog to get started on using react
 
-Simple starter blog tutorial following Net Ninja's Full Modern React Tutorial to understand how to use React
+Using Net Ninja's Full Modern React Tutorial, learning how to incorporate react's hooks to reduce redundancies and implement client-side routing using react router for a smoother application. 
